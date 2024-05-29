@@ -6,6 +6,6 @@ public class Program {
 
     static public void bye()
     {
-        System.out.println("Bye");
+        System.out.println("Goodbye");
     }
 }
